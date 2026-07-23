@@ -1,0 +1,6 @@
+{
+  "TaskManagement.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\KAHRABA_11\\source\\repos\\TaskManagement\\TaskManagement.Api",
+  "TaskManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\KAHRABA_11\\source\\repos\\TaskManagement\\TaskManagement.Application",
+  "TaskManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\KAHRABA_11\\source\\repos\\TaskManagement\\TaskManagement.Domain",
+  "TaskManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\KAHRABA_11\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure"
+}
